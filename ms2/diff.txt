@@ -1,0 +1,10 @@
+
+In line number 26 of your output:
+The output should be:
+Search Items!
+But your output is: 
+Search by SKU
+       ^
+-------|
+Professor's character ASCII code: hex(49), dec(73)
+un-matched character ASCII code: hex(62), dec(98)

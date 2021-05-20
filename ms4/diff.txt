@@ -1,0 +1,10 @@
+
+In line number 200 of your output:
+The output should be:
+--== Stocked! ==--
+But your output is: 
+--== Stocked ==--
+            ^
+------------|
+Professor's character ASCII code: hex(21), dec(33)
+un-matched character ASCII code: hex(20), dec(32)
